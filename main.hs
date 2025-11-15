@@ -1,4 +1,3 @@
--- Módulos importados
 import qualified Data.Map.Strict as Map
 import Data.Time (UTCTime, getCurrentTime)
 import Control.Exception (catch, SomeException, fromException, evaluate)
