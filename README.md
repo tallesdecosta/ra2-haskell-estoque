@@ -37,7 +37,7 @@ Você pode usar os seguintes comandos:
 
 ---
 
-## 🧪 Validação e Cenários de Teste Manuais
+## Validação e Cenários de Teste 
 
 Abaixo está a documentação da execução dos cenários de teste manuais obrigatórios.
 
